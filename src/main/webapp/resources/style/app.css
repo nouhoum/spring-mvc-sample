@@ -1,0 +1,54 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#header {
+	background-color: #ccf;
+	padding: 10px;
+	padding-left: 30px;
+}
+
+#content {
+	width: 850px;
+	margin: 0 auto;
+}
+
+#menu {
+	width: 850px;
+	margin: 0 auto;
+}
+
+#menu li {
+	display: inline;
+	padding-right: 12px;
+}
+
+#menu a {
+	color: #119;
+}
+
+#footer {
+	color: #777;
+	width: 850px;
+	margin: 0 auto;
+	margin-top: 20px;
+	clear: both;
+}
+
+#logo a {
+	color: #117;
+	text-decoration: none;
+}
+
+#logo {
+	padding-left: 4em;
+}
+
+label {
+	display: block;
+}
+
+h1 {
+	color: #117;
+}

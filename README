@@ -1,0 +1,1 @@
+This is a Spring 3 MVC sample project. It makes use of  Spring 3 annotations, JPA 2, Hibernate and JSR 303 for validations. 
